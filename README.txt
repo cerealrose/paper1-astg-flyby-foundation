@@ -23,10 +23,6 @@ companion papers, not included here.
 REPOSITORY CONTENTS
 --------------------------------------------------------------------------------
 
-paper/
-    paper_1_corrected.tex   Full manuscript source (REVTeX 4-2, PRD format)
-    thebibliography.bib     Bibliography (BibTeX)
-
 scripts/
     01_verify_visviva_derivation.py
         Symbolically re-derives Eqs. (10)-(13), the paper's central result,
