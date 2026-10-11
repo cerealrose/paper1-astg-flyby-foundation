@@ -76,8 +76,8 @@ The three repositories share `data/earth_flybys.csv` and `scripts/astg.py`.
 
 ## Earlier version
 
-The derivation checks that accompanied an earlier version of the manuscript are kept in the history of this repository
-under the tag `v1`.
+The derivation checks that accompanied an earlier version of the manuscript are kept in the history of this repository,
+at commit [`1d174c5`](https://github.com/cerealrose/paper1-astg-flyby-foundation/tree/1d174c5).
 
 ## Licence and citation
 
